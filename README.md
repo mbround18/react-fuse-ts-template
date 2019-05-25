@@ -1,8 +1,6 @@
-# Fusebox and react without Babel
+# Fusebox, Typescript, React, and React Routing
 
-
-```
-npm install
+```sh
+yarn install
 node fuse.js
 ```
-
